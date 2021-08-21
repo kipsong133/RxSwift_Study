@@ -11,6 +11,9 @@
 
 https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0/
 
+목차에 추가된 "링크" 속성은 개인블로그에 작성한 링크로 현재 저장소에 있는 내용과 일치합니다.
+(읽기 편하신 플랫폼으로 보시면 됩니다.)
+
 | Section 1 : Getting Start with RxSwift | 링크 |
 | :---------------------------------------- | ---- |
 | 1. Hello, RxSwift              | |

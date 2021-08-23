@@ -17,7 +17,7 @@ https://www.raywenderlich.com/books/rxswift-reactive-programming-with-swift/v4.0
 | Section 1 : Getting Start with RxSwift | 링크 |
 | :---------------------------------------- | ---- |
 | 1. Hello, RxSwift              |https://velog.io/@kipsong/RxSwift-Hello-RxSwift|
-| 2. Observables            | |
+| 2. Observables            |https://velog.io/@kipsong/Observables|
 | 3. Subjects       | |
 | 4. Observables & Subjects in Practice                     | |
 
